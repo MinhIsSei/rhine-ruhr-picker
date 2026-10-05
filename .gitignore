@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+# personal data: your own choice log and model weights
+my_choices.csv
+weights.npy
+.cache/
+places.csv.bak
+.streamlit/secrets.toml
+places.csv

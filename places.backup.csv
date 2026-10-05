@@ -1,0 +1,961 @@
+name,city,is_activity,kind,lat,lon,price,rating,outdoor
+Gasthaus Goeke im Grumbecktal,Bochum,0,restaurant,51.49984,7.23207,15,,0
+City Café,Bochum,0,cafe,51.48177,7.22084,8,,0
+Farina,Bochum,0,restaurant,51.4782,7.21849,15,,0
+Haus Oveney,Bochum,0,restaurant,51.42104,7.25494,15,,0
+Cafe Extrablatt,Bochum,0,cafe,51.47754,7.21691,8,,0
+Schmidtmeier,Bochum,0,cafe,51.45207,7.19215,8,,0
+L'Anfora,Bochum,0,restaurant,51.48974,7.20659,15,,0
+Yamas,Bochum,0,restaurant,51.4811,7.22044,15,,0
+Schnitzel Fritten Werkstatt,Bochum,0,fast_food,51.46584,7.23742,8,,0
+Levarosa,Bochum,0,restaurant,51.48802,7.2142,15,,0
+Kazahana,Bochum,0,restaurant,51.49896,7.21136,15,,0
+una más,Bochum,0,restaurant,51.48509,7.21648,15,,0
+"Best Friends – Sushi, Grill",Bochum,0,restaurant,51.47806,7.21803,15,,0
+Bratwursthaus,Bochum,0,fast_food,51.47693,7.21688,8,,0
+Trattoria Falcone,Bochum,0,restaurant,51.44827,7.25902,15,,0
+Hatoky,Bochum,0,restaurant,51.47803,7.21753,15,,0
+Suppenkasper,Bochum,0,fast_food,51.46172,7.20153,8,,0
+Kugelpudel,Bochum,0,ice_cream,51.48567,7.21381,4,,0
+La Mesa,Bochum,0,restaurant,51.47603,7.20468,15,,0
+Cappadocia,Bochum,0,fast_food,51.47269,7.32458,8,,0
+ZUSHI MARKET,Bochum,0,restaurant,51.49541,7.28343,15,,0
+Zlatanz Menami,Bochum,0,cafe,51.47962,7.22121,8,,0
+China Restaurant Feng-Hua,Bochum,0,restaurant,51.46134,7.14675,15,,0
+La Luna,Bochum,0,ice_cream,51.49447,7.28227,4,,0
+Begopa,Bochum,0,restaurant,51.48349,7.22132,15,,0
+Takeshi,Bochum,0,restaurant,51.46645,7.24856,15,,0
+Mutter Wittig,Bochum,0,restaurant,51.48149,7.22033,15,,0
+Syrtaki Grill,Bochum,0,restaurant,51.49447,7.19102,15,,0
+Mensa Hochschule Bochum,Bochum,0,restaurant,51.44629,7.27172,15,,0
+The Ash,Bochum,0,restaurant,51.49403,7.28389,15,,0
+Mandragora,Bochum,0,restaurant,51.47604,7.21588,15,,0
+Livingroom,Bochum,0,restaurant,51.47946,7.21915,15,,0
+El Toro,Bochum,0,restaurant,51.47736,7.21744,15,,0
+SIDE,Bochum,0,restaurant,51.43682,7.18252,15,,0
+Alt Piräus,Bochum,0,restaurant,51.42742,7.23773,15,,0
+Pho Joyce Asia Vietnam Küche,Bochum,0,restaurant,51.48969,7.20675,15,,0
+Eiscafé Aduo,Bochum,0,ice_cream,51.4921,7.24471,4,,0
+Artemis Grill,Bochum,0,fast_food,51.4921,7.24619,8,,0
+imlee,Bochum,0,restaurant,51.45525,7.20194,15,,0
+Profi-Grill,Bochum,0,fast_food,51.47951,7.1596,8,,0
+Ristaurante Pizzeria Romanella,Bochum,0,restaurant,51.49199,7.21347,15,,0
+Zum Kuhhirten,Bochum,0,restaurant,51.48318,7.21888,15,,0
+Domino's,Bochum,0,fast_food,51.47218,7.214,8,,0
+Pizza Hut,Bochum,0,restaurant,51.49542,7.27722,15,,0
+Restaurant Tanas,Bochum,0,restaurant,51.47185,7.21722,15,,0
+Athos,Bochum,0,restaurant,51.4442,7.19461,15,,0
+Pizza & Me,Bochum,0,fast_food,51.47444,7.30666,8,,0
+Mr. Wasabi - sushi&more,Bochum,0,fast_food,51.48798,7.20987,8,,0
+Dooby´s,Bochum,0,fast_food,51.47689,7.2231,8,,0
+Badalona,Bochum,0,restaurant,51.47846,7.21805,15,,0
+Pizzamanns,Bochum,0,restaurant,51.47753,7.21621,15,,0
+U Sicilianu,Bochum,0,restaurant,51.47744,7.32922,15,,0
+Café MariNic,Bochum,0,cafe,51.44156,7.21361,8,,0
+WEN DAN,Bochum,0,restaurant,51.49422,7.24889,15,,0
+Karawane,Bochum,0,restaurant,51.48328,7.22081,15,,0
+Blondies,Bochum,0,restaurant,51.47028,7.21026,15,,0
+Suppen Schulz,Bochum,0,restaurant,51.48428,7.2166,15,,0
+El Dorado,Bochum,0,restaurant,51.47891,7.14255,15,,0
+NhyStar,Bochum,0,restaurant,51.47801,7.21795,15,,0
+Caffèlito,Bochum,0,cafe,51.48047,7.2221,8,,0
+Arte Italiana,Bochum,0,restaurant,51.48046,7.13477,15,,0
+Eiscafé GiraSole,Bochum,0,ice_cream,51.48499,7.21902,4,,0
+Baseburger,Bochum,0,restaurant,51.48153,7.1325,15,,0
+Tobys BBQ,Bochum,0,restaurant,51.48611,7.18294,15,,0
+Nordsee,Bochum,0,fast_food,51.49517,7.2797,8,,0
+Curry Karl,Bochum,0,fast_food,51.49512,7.27993,8,,0
+Asiagourmet,Bochum,0,fast_food,51.49505,7.28009,8,,0
+Pizzeria Al Dente,Bochum,0,restaurant,51.42585,7.16051,15,,0
+Mensa,Bochum,0,restaurant,51.44311,7.26242,15,,0
+Hans im Glück,Bochum,0,restaurant,51.47835,7.21673,15,,0
+Asia Wok Sushi,Bochum,0,restaurant,51.42907,7.16522,15,,0
+Pizzeria Piccolo,Bochum,0,restaurant,51.5193,7.27519,15,,0
+Hopfengarten,Bochum,0,restaurant,51.46183,7.20211,15,,0
+3CO,Bochum,0,restaurant,51.4944,7.28225,15,,0
+Wok Express,Bochum,0,fast_food,51.48241,7.21654,8,,0
+TAJ,Bochum,0,restaurant,51.42364,7.15543,15,,0
+Pane e Vino,Bochum,0,restaurant,51.45413,7.19206,15,,0
+Genki Bao & Burger,Bochum,0,restaurant,51.47799,7.21747,15,,0
+Femlinde,Bochum,0,restaurant,51.4752,7.24585,15,,0
+Caffe Barbera,Bochum,0,cafe,51.48126,7.22063,8,,0
+Union Kino,Bochum,1,cinema,51.47678,7.2169,12,,0
+Kunstmuseum Bochum,Bochum,1,museum,51.48737,7.22108,8,,0
+Kunstsammlung der Ruhr-Universität,Bochum,1,museum,51.44256,7.26001,8,,0
+Stadtarchiv,Bochum,1,museum,51.47779,7.22881,8,,0
+Eisenbahnmuseum Bochum-Dahlhausen,Bochum,1,museum,51.43237,7.12459,8,,0
+Figurentheater-Kolleg Bochum,Bochum,1,theatre,51.47598,7.30718,20,,0
+Deutsches Bergbau-Museum,Bochum,1,museum,51.48867,7.21684,8,,0
+Casablanca,Bochum,1,cinema,51.47677,7.21638,12,,0
+Prinzregenttheater,Bochum,1,theatre,51.4509,7.21752,20,,0
+ROTTSTR 5 Theater,Bochum,1,theatre,51.47891,7.21313,20,,0
+UCI Bochum,Bochum,1,cinema,51.49569,7.27769,12,,0
+Jahrhunderthalle,Bochum,1,theatre,51.48124,7.19812,20,,0
+SCHWANENMARKT 1,Bochum,1,gallery,51.48348,7.22229,5,,0
+Thorpe-Heimatmuseum Eppendorf,Bochum,1,museum,51.46004,7.17932,8,,0
+IUZ Sternwarte Bochum,Bochum,1,museum,51.42724,7.19329,8,,0
+Museum unter Tage,Bochum,1,museum,51.4476,7.19033,8,,0
+Boda Borg,Bochum,1,escape_game,51.49493,7.27847,25,,0
+Capitol,Bochum,1,cinema,51.47946,7.21686,12,,0
+raum 22,Bochum,1,gallery,51.42503,7.15768,5,,0
+kunstkabine & de matteis design,Bochum,1,arts_centre,51.46479,7.21388,8,,0
+Telekom-Historik - Museum,Bochum,1,museum,51.48951,7.24497,8,,0
+Tierpark und Fossilium Bochum,Bochum,1,zoo,51.49051,7.22708,20,,1
+Der Kubus,Bochum,1,museum,51.44776,7.18925,8,,0
+Wasserwelten Langendreer,Bochum,1,water_park,51.46476,7.31379,15,,0
+Stanzwerk,Bochum,1,attraction,51.42017,7.18544,0,,1
+Heimatmuseum Helfs Hof,Bochum,1,museum,51.46045,7.12347,8,,0
+LWL-Industriemuseum Zeche Hannover,Bochum,1,museum,51.50456,7.16483,8,,0
+endstation.kino,Bochum,1,cinema,51.47923,7.32078,12,,0
+Rottstr5 Kunsthallen,Bochum,1,arts_centre,51.479,7.21311,8,,0
+Rottstr.5 H.O.F.,Bochum,1,arts_centre,51.47882,7.21315,8,,0
+Zeitmaul-Theater,Bochum,1,theatre,51.48543,7.21078,20,,0
+kunst und rahmen kretschmer,Bochum,1,gallery,51.42987,7.1665,5,,0
+St. Mathias Erbstollen II,Bochum,1,attraction,51.42375,7.19758,0,,1
+atelier Skala,Bochum,1,arts_centre,51.51994,7.27619,8,,0
+TheaterTotal,Bochum,1,theatre,51.45856,7.22499,20,,0
+Tanja Leifeld Art,Bochum,1,gallery,51.465,7.23935,5,,0
+Kunsthaus Pinx,Bochum,1,gallery,51.4843,7.22609,5,,0
+Theaterrevier,Bochum,1,theatre,51.45061,7.21677,20,,0
+Stranddeck,Bochum,1,attraction,51.43639,7.27653,0,,1
+Zeiss Planetarium Bochum,Bochum,1,planetarium,51.48545,7.22771,0,,1
+Stadthalle Wattenscheid,Bochum,1,theatre,51.47847,7.13551,20,,0
+Schwarzlicht Semester Minigolf,Bochum,1,miniature_golf,51.49915,7.21138,0,,1
+Zauberkasten,Bochum,1,theatre,51.51914,7.28225,20,,0
+"Seilscheibe, zur Erinnerung an die Zechen in Bochum",Bochum,1,attraction,51.48171,7.13258,0,,1
+Calvero´s Salon-Zaubertheater,Bochum,1,theatre,51.47778,7.22751,20,,0
+Edelkastanie,Bochum,1,attraction,51.44979,7.26209,0,,1
+Locked Bochum,Bochum,1,escape_game,51.47946,7.2155,25,,0
+Theater der Gezeiten,Bochum,1,theatre,51.49411,7.20848,20,,0
+Deutsches Forum für Puppentheater,Bochum,1,theatre,51.44222,7.19217,20,,0
+Galerie Januar,Bochum,1,gallery,51.47518,7.30206,5,,0
+Atelier Scarabée,Bochum,1,gallery,51.46974,7.21022,5,,0
+Stück der Berliner Mauer,Bochum,1,attraction,51.43236,7.22882,0,,1
+BoTag,Bochum,1,escape_game,51.49931,7.2108,25,,0
+Provinz,Bochum,1,gallery,51.49406,7.20875,5,,0
+Showroom Kunst,Bochum,1,gallery,51.47337,7.22008,5,,0
+Anneliese Brost Musikforum Ruhr,Bochum,1,theatre,51.47752,7.21485,20,,0
+Malakowturm,Bochum,1,museum,51.44893,7.23549,8,,0
+Adventure Minigolf Bochum,Bochum,1,miniature_golf,51.41973,7.25375,0,,1
+Wildgehege Jörgenstein im Weitmarer Holz,Bochum,1,zoo,51.43582,7.1926,20,,1
+Freibad Werne,Bochum,1,water_park,51.4919,7.31596,15,,0
+Schloßpark Weitmar,Bochum,1,park,51.44702,7.19077,0,,1
+Starlight-Express-Theater Bochum,Bochum,1,theatre,51.49269,7.2342,20,,0
+Wageni,Bochum,1,arts_centre,51.47953,7.32218,8,,0
+Hallenfreibad Hofstede,Bochum,1,water_park,51.49914,7.18386,15,,0
+Wellenfreibad Südfeldmark,Bochum,1,water_park,51.48621,7.15117,15,,0
+Kunstbunker Bochum,Bochum,1,gallery,51.47653,7.19719,5,,0
+urban blue Wasser- und FreizeitWelt Langendreer,Bochum,1,water_park,51.46476,7.31379,15,,0
+Kulturhaus Bochum e.V. Thealozzi,Bochum,1,arts_centre,51.47103,7.18844,8,,0
+Gemeinschaftsgarten Vereinsstraße,Bochum,1,garden,51.47888,7.18998,0,,1
+Kulturzentrum Bahnhof Langendreer,Bochum,1,arts_centre,51.47924,7.3211,8,,0
+Varieté et cetera,Bochum,1,theatre,51.50414,7.20817,20,,0
+"Siedlungshäuser ""Am Rübenkamp""",Bochum,1,museum,51.50375,7.16201,8,,0
+Schauspielhaus Bochum,Bochum,1,theatre,51.47224,7.21766,20,,0
+Bismarckturm,Bochum,1,viewpoint,51.4905,7.22606,0,,1
+Zeche Holland,Bochum,1,attraction,51.4839,7.12879,0,,1
+Anneliese Brost Musikforum Ruhr,Bochum,1,theatre,51.4773,7.21489,20,,0
+Metropolis-Theater,Bochum,1,cinema,51.47897,7.22316,12,,0
+Tippelsberg,Bochum,1,attraction,51.50707,7.22737,0,,1
+Situation Kunst,Bochum,1,museum,51.44837,7.18925,8,,0
+Pfarrzentrum Liebfrauenkirche,Bochum,1,arts_centre,51.47297,7.24628,8,,0
+Café Kompott,Dortmund,0,cafe,51.51217,7.46913,8,,0
+Sachte Restaurant,Dortmund,0,restaurant,51.50479,7.45577,15,,0
+BOCCA,Dortmund,0,restaurant,51.49073,7.50517,15,,0
+Vetro,Dortmund,0,restaurant,51.50479,7.53381,15,,0
+Grafenburg,Dortmund,0,restaurant,51.51146,7.50338,15,,0
+Bambus Garten,Dortmund,0,restaurant,51.51534,7.50311,15,,0
+Ristorante Albero Verde,Dortmund,0,restaurant,51.50303,7.50792,15,,0
+Haus Lahr,Dortmund,0,restaurant,51.56033,7.59749,15,,0
+Kieztörtchen,Dortmund,0,cafe,51.50354,7.45354,8,,0
+DELIKAT am Stadewäldchen,Dortmund,0,restaurant,51.50657,7.47209,15,,0
+The Korean,Dortmund,0,restaurant,51.51359,7.46895,15,,0
+Palace India,Dortmund,0,restaurant,51.52308,7.54332,15,,0
+Mowwe Restaurant & Café,Dortmund,0,restaurant,51.56634,7.57869,15,,0
+base KITCHEN,Dortmund,0,restaurant,51.50338,7.45195,15,,0
+Cafe Extrablatt,Dortmund,0,cafe,51.51369,7.46797,8,,0
+Benediktiner,Dortmund,0,restaurant,51.51175,7.46592,15,,0
+JIA - The Taste of Home,Dortmund,0,restaurant,51.51408,7.474,15,,0
+Flamingo am Zoo Dortmund,Dortmund,0,restaurant,51.4744,7.4682,15,,0
+eatalio,Dortmund,0,restaurant,51.54753,7.46375,15,,0
+Pfefferkorn,Dortmund,0,restaurant,51.5137,7.46685,15,,0
+Hans im Glück,Dortmund,0,restaurant,51.51277,7.46526,15,,0
+IUMA,Dortmund,0,restaurant,51.46126,7.45642,15,,0
+Net Viet,Dortmund,0,restaurant,51.52389,7.55026,15,,0
+Sushi Box,Dortmund,0,restaurant,51.52082,7.52212,15,,0
+Vrüh,Dortmund,0,cafe,51.50525,7.46571,8,,0
+Restaurant Sumack,Dortmund,0,restaurant,51.47854,7.5309,15,,0
+Zur Loheide,Dortmund,0,restaurant,51.55289,7.602,15,,0
+Friedchen's Bahnhof,Dortmund,0,restaurant,51.5335,7.41522,15,,0
+Gong Bao,Dortmund,0,restaurant,51.48593,7.43593,15,,0
+Memorie-z,Dortmund,0,restaurant,51.49431,7.37968,15,,0
+The Ash,Dortmund,0,restaurant,51.50221,7.52437,15,,0
+L'Osteria,Dortmund,0,restaurant,51.50233,7.52388,15,,0
+Pizzeria Porto Bello,Dortmund,0,restaurant,51.50618,7.55749,15,,0
+Pizzeria La Stella,Dortmund,0,restaurant,51.49915,7.58772,15,,0
+Yamas,Dortmund,0,restaurant,51.51395,7.47515,15,,0
+UNI Falafel,Dortmund,0,fast_food,51.48135,7.41003,8,,0
+Subway,Dortmund,0,fast_food,51.50352,7.51279,8,,0
+Pferdestall,Dortmund,0,restaurant,51.51853,7.33482,15,,0
+Strickmann,Dortmund,0,cafe,51.51215,7.46466,8,,0
+Teheran,Dortmund,0,restaurant,51.50325,7.45849,15,,0
+Brüderlich,Dortmund,0,restaurant,51.51331,7.48215,15,,0
+Joly's Pizzeris,Dortmund,0,fast_food,51.51189,7.452,8,,0
+Brotzimmer,Dortmund,0,restaurant,51.50471,7.45892,15,,0
+Depothek,Dortmund,0,restaurant,51.53294,7.45349,15,,0
+Strobels,Dortmund,0,restaurant,51.4939,7.45299,15,,0
+DOPPELTSOLECKER,Dortmund,0,restaurant,51.50539,7.45254,15,,0
+Von Herzen,Dortmund,0,restaurant,51.49771,7.35445,15,,0
+Küchenreise by Asterios,Dortmund,0,restaurant,51.4779,7.49437,15,,0
+Restaurant Mandarin,Dortmund,0,restaurant,51.47484,7.54031,15,,0
+Casa Mia,Dortmund,0,fast_food,51.51056,7.37929,8,,0
+yoko,Dortmund,0,restaurant,51.50715,7.47214,15,,0
+Brauturm,Dortmund,0,restaurant,51.51509,7.45339,15,,0
+Akropolis Grill,Dortmund,0,restaurant,51.48155,7.40549,15,,0
+Mamma Mia,Dortmund,0,restaurant,51.55917,7.59643,15,,0
+Grillhaus Zum Griechen,Dortmund,0,restaurant,51.51537,7.56669,15,,0
+Feines19,Dortmund,0,restaurant,51.47587,7.44032,15,,0
+Eislädchen & Manufaktur,Dortmund,0,ice_cream,51.48264,7.56026,4,,0
+Fisch Gericht 2,Dortmund,0,restaurant,51.52368,7.54835,15,,0
+El Greco Grill,Dortmund,0,restaurant,51.49248,7.54994,15,,0
+My Döner & Pan Pizza,Dortmund,0,fast_food,51.53228,7.61129,8,,0
+Coffee Fellows,Dortmund,0,cafe,51.51731,7.4604,8,,0
+Pfefferkorn NY Steakhouse,Dortmund,0,restaurant,51.49179,7.50544,15,,0
+Tasty Dortmund,Dortmund,0,restaurant,51.5177,7.32396,15,,0
+Schlemmer-Treff,Dortmund,0,restaurant,51.4637,7.52375,15,,0
+Restaurant Acqua Pazza,Dortmund,0,restaurant,51.49667,7.43924,15,,0
+Vapiano,Dortmund,0,restaurant,51.51272,7.46327,15,,0
+Kuhbar Eiscafé,Dortmund,0,ice_cream,51.52983,7.59693,4,,0
+Zur schönen Aussicht,Dortmund,0,restaurant,51.57124,7.56803,15,,0
+Konditorei Mack,Dortmund,0,cafe,51.45256,7.45688,8,,0
+Maharaja - The Royals,Dortmund,0,restaurant,51.51715,7.5194,15,,0
+Pizzeria Rusticale,Dortmund,0,restaurant,51.44425,7.45461,15,,0
+Zeus Grill,Dortmund,0,restaurant,51.51304,7.48469,15,,0
+Ban-Do,Dortmund,0,restaurant,51.51567,7.4651,15,,0
+Sushi Kaiser,Dortmund,0,restaurant,51.50807,7.4676,15,,0
+Kaffeerösterei Neues Schwarz,Dortmund,0,cafe,51.50581,7.46895,8,,0
+Pizzeria Corona,Dortmund,0,restaurant,51.50377,7.47581,15,,0
+NhyStar,Dortmund,0,restaurant,51.51585,7.46414,15,,0
+Espresso Perfetto,Dortmund,0,cafe,51.48994,7.50566,8,,0
+Divan Restaurant,Dortmund,0,restaurant,51.48114,7.40903,15,,0
+Sushi For You,Dortmund,0,restaurant,51.503,7.45681,15,,0
+DASA Arbeitswelt Ausstellung,Dortmund,1,museum,51.49826,7.42076,8,,0
+Naturmuseum Dortmund,Dortmund,1,museum,51.53588,7.45794,8,,0
+LWL-Industriemuseum Zeche Zollern,Dortmund,1,museum,51.5179,7.33469,8,,0
+Kindermuseum Adlerturm,Dortmund,1,museum,51.51036,7.46937,8,,0
+Nahverkehrsmuseum Dortmund,Dortmund,1,museum,51.54949,7.4062,8,,0
+Borusseum,Dortmund,1,museum,51.49374,7.45297,8,,0
+Hartware MedienKunstVerein,Dortmund,1,museum,51.51493,7.453,8,,0
+Key & Free,Dortmund,1,escape_game,51.51412,7.46526,25,,0
+Magnetmuseum,Dortmund,1,museum,51.48938,7.5509,8,,0
+Apotheken-Museum,Dortmund,1,museum,51.51183,7.46408,8,,0
+Lichtspiel und Kunsttheater Schauburg,Dortmund,1,cinema,51.51721,7.46474,12,,0
+Deutsches Industrielack-Museum,Dortmund,1,museum,51.52861,7.44263,8,,0
+Bowltreff Dortmund,Dortmund,1,bowling_alley,51.52384,7.45427,10,,0
+Kokerei Hansa,Dortmund,1,museum,51.5444,7.4103,8,,0
+Zoo Dortmund,Dortmund,1,zoo,51.47292,7.47066,20,,1
+Museum für Kunst und Kulturgeschichte,Dortmund,1,museum,51.51667,7.46301,8,,0
+Konzerthaus,Dortmund,1,theatre,51.51625,7.46654,20,,0
+Roxy Lichtspielhaus,Dortmund,1,cinema,51.52417,7.46271,12,,0
+Key & Free,Dortmund,1,escape_game,51.50294,7.49507,25,,0
+mondo mio! Kindermuseum,Dortmund,1,museum,51.49677,7.4718,8,,0
+schauraum: comic + cartoon,Dortmund,1,museum,51.5163,7.46015,8,,0
+MASCHINERIE,Dortmund,1,arts_centre,51.53123,7.44585,8,,0
+Kinder- und Jugendtheater,Dortmund,1,theatre,51.49501,7.48583,20,,0
+Baukunstarchiv NRW,Dortmund,1,museum,51.51319,7.47203,8,,0
+Automobil Museum Dortmund,Dortmund,1,museum,51.45856,7.48469,8,,0
+Opernhaus Dortmund,Dortmund,1,theatre,51.51098,7.46176,20,,0
+Deutsches Fußballmuseum,Dortmund,1,museum,51.51623,7.45792,8,,0
+Fletch Bizzel,Dortmund,1,theatre,51.51053,7.45378,20,,0
+Heimatmuseum Lütgendortmund,Dortmund,1,museum,51.50948,7.34959,8,,0
+Westfälisches Schulmuseum,Dortmund,1,museum,51.51048,7.38358,8,,0
+Stadttheater,Dortmund,1,theatre,51.51133,7.46062,20,,0
+Kunstbonbon,Dortmund,1,gallery,51.5086,7.46307,5,,0
+Rekorder II,Dortmund,1,arts_centre,51.52226,7.44618,8,,0
+Theater Olpketal,Dortmund,1,theatre,51.46121,7.46725,20,,0
+Labor für sensorische Annehmlichkeiten e.V.,Dortmund,1,arts_centre,51.50956,7.44193,8,,0
+Camera Lichtspiele,Dortmund,1,cinema,51.52413,7.45423,12,,0
+enigmania - Live Escape Game,Dortmund,1,escape_game,51.51332,7.45735,25,,0
+KASINO,Dortmund,1,arts_centre,51.52368,7.45222,8,,0
+Museum Ostwall,Dortmund,1,museum,51.51516,7.45314,8,,0
+Bergbaumuseum BV-Kleinzeche Max Rehfeld,Dortmund,1,museum,51.56864,7.37622,8,,0
+SIGNAL IDUNA PARK,Dortmund,1,attraction,51.49258,7.45184,0,,1
+Rathaus,Dortmund,1,townhall,51.51134,7.46519,0,,1
+Burgruine Hohensyburg,Dortmund,1,attraction,51.42006,7.48705,0,,1
+Adventure Golf Park,Dortmund,1,miniature_golf,51.52162,7.40392,0,,1
+Phoenix des Lumières,Dortmund,1,gallery,51.4886,7.48863,5,,0
+Langer August,Dortmund,1,community_centre,51.52768,7.46493,0,,1
+Brauerei-Museum,Dortmund,1,museum,51.52943,7.46748,8,,0
+Halle 77 Dortmund,Dortmund,1,museum,51.50739,7.4914,8,,0
+Filmbühne zur Postkutsche,Dortmund,1,cinema,51.49136,7.5536,12,,0
+Stadtteilbücherei Brackel,Dortmund,1,library,51.52217,7.54529,0,,1
+Dortmunder U – Zentrum für Kunst und Kreativität,Dortmund,1,museum,51.51505,7.45312,8,,0
+Gemeinschaftsgarten Offenes Zentrum,Dortmund,1,garden,51.52312,7.46929,0,,1
+CineStar,Dortmund,1,cinema,51.51929,7.46081,12,,0
+Brunosee,Dortmund,1,viewpoint,51.57765,7.34446,0,,1
+Cabaret Queue,Dortmund,1,theatre,51.48915,7.50482,20,,0
+sweetSixteen-filmclub,Dortmund,1,cinema,51.53309,7.45274,12,,0
+Theater im Depot,Dortmund,1,theatre,51.53289,7.4528,20,,0
+Besucherbergwerk Graf Wittekind,Dortmund,1,museum,51.42075,7.48028,8,,0
+Heimatmuseum,Dortmund,1,museum,51.52381,7.54708,8,,0
+Galerie Lamers,Dortmund,1,gallery,51.51363,7.46852,5,,0
+Westfalenpark Eingang Ruhrallee,Dortmund,1,attraction,51.4962,7.47031,0,,1
+Superraum,Dortmund,1,gallery,51.51722,7.46501,5,,0
+Turbo Prop Theater,Dortmund,1,theatre,51.48484,7.50068,20,,0
+Atelierhaus Alter Kiosk,Dortmund,1,arts_centre,51.52074,7.47947,8,,0
+Nordbad,Dortmund,1,water_park,51.52165,7.45928,15,,0
+Hof Grundmann,Dortmund,1,zoo,51.57958,7.56816,20,,1
+Art Dortmund,Dortmund,1,gallery,51.47535,7.43597,5,,0
+Kaiser-Wilhelm-Denkmal,Dortmund,1,attraction,51.41989,7.48262,0,,1
+Freibad Hardenberg,Dortmund,1,water_park,51.55062,7.43413,15,,0
+Freibad Froschloch,Dortmund,1,water_park,51.46692,7.43989,15,,0
+Depot Immermannstraße,Dortmund,1,arts_centre,51.5331,7.45308,8,,0
+Torhaus Brünninghausen,Dortmund,1,museum,51.48348,7.46849,8,,0
+Sankt Reinoldi-Kirche,Dortmund,1,place_of_worship,51.51474,7.46766,0,,1
+Balou,Dortmund,1,arts_centre,51.52213,7.54485,8,,1
+Lanstroper Ei,Dortmund,1,attraction,51.56865,7.55955,0,,1
+Steinerner Turm,Dortmund,1,attraction,51.49692,7.45909,0,,1
+Grünes Wohnzimmer,Dortmund,1,garden,51.52297,7.44999,0,,1
+Freibad Wellinghofen,Dortmund,1,water_park,51.46715,7.50091,15,,0
+Galerie Torfhaus,Dortmund,1,gallery,51.49413,7.47633,5,,0
+Minigolfplatz Dortmund-Brechten,Dortmund,1,miniature_golf,51.57034,7.47277,0,,1
+Wambachgrill,Duisburg,0,fast_food,51.3928,6.79145,8,,0
+StellwerkHOF,Duisburg,0,restaurant,51.38652,6.69237,15,,0
+Schenkel´s am Sittardsberg,Duisburg,0,restaurant,51.37602,6.76033,15,,0
+L'Osteria,Duisburg,0,restaurant,51.44167,6.77005,15,,0
+Chili's,Duisburg,0,restaurant,51.44016,6.76916,15,,0
+Eismanufaktur Primavera,Duisburg,0,cafe,51.43293,6.79122,8,,0
+Lindenwirtin,Duisburg,0,restaurant,51.43347,6.79889,15,,0
+Da Ottavio,Duisburg,0,restaurant,51.36446,6.75117,15,,0
+Für Dich (Korean Soul Food),Duisburg,0,restaurant,51.36747,6.74253,15,,0
+Matus Burritos Duisburg,Duisburg,0,fast_food,51.42983,6.78302,8,,0
+Bolero,Duisburg,0,restaurant,51.44082,6.77167,15,,0
+fino Espressobar,Duisburg,0,cafe,51.4329,6.76523,8,,0
+Faktorei,Duisburg,0,restaurant,51.4405,6.76973,15,,0
+MeYuki Sushi & Asian Food,Duisburg,0,restaurant,51.42799,6.78653,15,,0
+Mein Stübchen,Duisburg,0,restaurant,51.43367,6.76311,15,,0
+Fabricca Espressobar,Duisburg,0,cafe,51.43291,6.76339,8,,0
+HOME Gastronomie im Digitalkontor,Duisburg,0,restaurant,51.43551,6.75748,15,,0
+Zum Mühlenwinkel,Duisburg,0,restaurant,51.40317,6.65339,15,,0
+Restaurant Poseidon,Duisburg,0,restaurant,51.40996,6.68377,15,,0
+Asia Express,Duisburg,0,fast_food,51.41052,6.71947,8,,0
+Nuh's,Duisburg,0,fast_food,51.4304,6.76197,8,,0
+HotPot Haus,Duisburg,0,restaurant,51.4331,6.79664,15,,0
+Vapiano,Duisburg,0,restaurant,51.44192,6.7715,15,,0
+Schlemmer Stube,Duisburg,0,fast_food,51.39539,6.70709,8,,0
+Haus Seeblick,Duisburg,0,restaurant,51.38187,6.80453,15,,0
+Restaurant Waidmannsheil,Duisburg,0,restaurant,51.36081,6.78842,15,,0
+Bellini Ristorante,Duisburg,0,restaurant,51.49049,6.67272,15,,0
+Haus der Pizza,Duisburg,0,fast_food,51.38689,6.75257,8,,0
+Pizza Arturo,Duisburg,0,fast_food,51.37042,6.74794,8,,0
+Walsumer Brauhaus Urfels,Duisburg,0,restaurant,51.52342,6.72573,15,,0
+Ristorante Da Peppino,Duisburg,0,restaurant,51.43987,6.78767,15,,0
+Eiscafe La Fina,Duisburg,0,cafe,51.37053,6.78116,8,,0
+LoLu - Vegane Vegetarische Küche,Duisburg,0,restaurant,51.43228,6.76777,15,,0
+Il Lago,Duisburg,0,fast_food,51.39364,6.79547,8,,0
+Mezzomar,Duisburg,0,restaurant,51.40974,6.78136,15,,0
+König Pilsener Wirtshaus Duisburg,Duisburg,0,restaurant,51.44153,6.76912,15,,0
+Restaurant Saalbau,Duisburg,0,restaurant,51.39202,6.79778,15,,0
+Phở 37,Duisburg,0,restaurant,51.43744,6.78154,15,,0
+Pizzeria Viva Italia,Duisburg,0,restaurant,51.44126,6.75439,15,,0
+Baklava Dünyası,Duisburg,0,cafe,51.48984,6.77376,8,,0
+Brauküche,Duisburg,0,fast_food,51.42507,6.79221,8,,0
+Haus Duissern,Duisburg,0,restaurant,51.43824,6.78059,15,,0
+Dr. Schiwago,Duisburg,0,restaurant,51.35294,6.74489,15,,0
+Casa Castillo,Duisburg,0,restaurant,51.50882,6.66588,15,,0
+Angelos,Duisburg,0,cafe,51.43538,6.79651,8,,0
+La Palma,Duisburg,0,restaurant,51.41995,6.77972,15,,0
+LUNA - Bistro & Bar,Duisburg,0,restaurant,51.44624,6.78922,15,,0
+Restaurant Marmaris,Duisburg,0,restaurant,51.44877,6.79231,15,,0
+Trattoria La Grappa,Duisburg,0,restaurant,51.37727,6.7621,15,,0
+Lillys Eiscafé,Duisburg,0,cafe,51.40663,6.70934,8,,0
+Ristorante-Pizzeria La Lanterna,Duisburg,0,restaurant,51.40794,6.71656,15,,0
+Eis-Café Romeo,Duisburg,0,cafe,51.39163,6.7076,8,,0
+Zur Alten Post,Duisburg,0,restaurant,51.41407,6.7159,15,,0
+Mediterran im Landgasthaus Chargé,Duisburg,0,restaurant,51.34744,6.78068,15,,0
+Caféhaus Dobbelstein,Duisburg,0,cafe,51.4332,6.76386,8,,0
+Da Roberto,Duisburg,0,restaurant,51.42961,6.76256,15,,0
+Pizzeria Singh,Duisburg,0,restaurant,51.40812,6.71841,15,,0
+Taboulé Restaurant,Duisburg,0,restaurant,51.43168,6.76753,15,,0
+Grill 33,Duisburg,0,fast_food,51.38234,6.75487,8,,0
+Pizzaria La Barca Neudorf,Duisburg,0,fast_food,51.43039,6.78039,8,,0
+Hellas,Duisburg,0,restaurant,51.43464,6.76286,15,,0
+CityGrill,Duisburg,0,fast_food,51.39981,6.65824,8,,0
+Mayuri,Duisburg,0,restaurant,51.42315,6.79486,15,,0
+Antalya Grill,Duisburg,0,fast_food,51.42668,6.78836,8,,0
+Dönizza,Duisburg,0,fast_food,51.44975,6.68655,8,,0
+Pizzeria Piccolo,Duisburg,0,restaurant,51.43234,6.73027,15,,0
+Suraj Pizzeria,Duisburg,0,fast_food,51.4291,6.79385,8,,0
+Vinotheka Strada levante,Duisburg,0,cafe,51.42779,6.78686,8,,0
+Haus Rheinblick,Duisburg,0,restaurant,51.48504,6.67867,15,,0
+Balkanhof,Duisburg,0,restaurant,51.36384,6.75074,15,,0
+Nino's Pizza,Duisburg,0,fast_food,51.41162,6.72062,8,,0
+Café movies im filmforum,Duisburg,0,restaurant,51.43051,6.76136,15,,0
+Bolten,Duisburg,0,cafe,51.39243,6.79098,8,,0
+Pesas AllSteaks,Duisburg,0,restaurant,51.41818,6.78059,15,,0
+Pizzeria Samra,Duisburg,0,fast_food,51.39091,6.6571,8,,0
+Mahlzeit Grill,Duisburg,0,fast_food,51.46536,6.77046,8,,0
+Passione,Duisburg,0,cafe,51.4325,6.76805,8,,0
+Konditorei Dobbelstein,Duisburg,0,cafe,51.39256,6.79086,8,,0
+Ankara,Duisburg,0,restaurant,51.39802,6.75117,15,,0
+Punjabi Pfanne,Duisburg,0,restaurant,51.42743,6.78745,15,,0
+Museum Küppersmühle für moderne Kunst (MKM),Duisburg,1,museum,51.44118,6.77438,8,,0
+Wilhelm Lehmbruck Museum,Duisburg,1,museum,51.42961,6.76588,8,,0
+Stadttheater / Duisburger Philharmoniker,Duisburg,1,theatre,51.43497,6.77087,20,,0
+Museum DKM,Duisburg,1,museum,51.42854,6.76991,8,,0
+Zoo Duisburg,Duisburg,1,zoo,51.43632,6.80663,20,,1
+Radiomuseum Duisburg,Duisburg,1,museum,51.45299,6.73809,8,,0
+Niederrhein-Therme,Duisburg,1,water_park,51.52168,6.77831,15,,0
+Adventure Minigolf Duisburg,Duisburg,1,miniature_golf,51.46226,6.69774,0,,1
+Kultur- und Stadthistorisches Museum Duisburg,Duisburg,1,toilets,51.43705,6.761,0,,0
+Bienenmuseum,Duisburg,1,museum,51.39769,6.65559,8,,0
+Deutsche Oper am Rhein /Kulturbetriebe Stadt Duisburg,Duisburg,1,theatre,51.43459,6.77065,20,,0
+Niederrheinisches Karnevalsmuseum,Duisburg,1,museum,51.52156,6.77401,8,,0
+Rhein-Ruhr-Bad Hamborn,Duisburg,1,water_park,51.49494,6.76757,15,,0
+Museum (ehemalig St. Laurentius),Duisburg,1,museum,51.37986,6.68537,8,,0
+Mercatorhalle - Konzertsäle,Duisburg,1,attraction,51.43301,6.77074,0,,1
+Museum der Deutschen Binnenschifffahrt,Duisburg,1,museum,51.45965,6.72986,8,,0
+Kants Garten,Duisburg,1,park,51.42963,6.76825,0,,1
+Kleingartenverei Nachtigallental,Duisburg,1,park,51.41842,6.79599,0,,1
+Theater am Marientor,Duisburg,1,theatre,51.42904,6.75716,20,,0
+Damwildgehege Rheinhausen,Duisburg,1,zoo,51.41284,6.70404,20,,1
+Botanischer Garten Duisburg Hamborn,Duisburg,1,park,51.48703,6.76667,0,,1
+Botanischer Garten,Duisburg,1,garden,51.43584,6.79736,0,,1
+Parkhaus Meiderich,Duisburg,1,arts_centre,51.46022,6.76164,8,,0
+"Heimat- und Schulmuseum ""Lehrerhaus""",Duisburg,1,museum,51.38103,6.70148,8,,0
+Damwildgehege Rheinhausen Sommergehge,Duisburg,1,zoo,51.41267,6.70178,20,,1
+UCI,Duisburg,1,cinema,51.42981,6.77805,12,,0
+Filmforum,Duisburg,1,cinema,51.43057,6.76134,12,,0
+Klettergarten DAV Duisburg,Duisburg,1,attraction,51.48291,6.78119,0,,1
+KOM'MA - Kinder- und Jugendtheater,Duisburg,1,theatre,51.40579,6.70829,20,,0
+Hafenkult e.V,Duisburg,1,arts_centre,51.43074,6.73585,8,,0
+CityART Surkov,Duisburg,1,gallery,51.4327,6.76083,5,,0
+Minigolfarena,Duisburg,1,miniature_golf,51.40397,6.79312,0,,1
+Die Säule,Duisburg,1,theatre,51.43081,6.76142,20,,0
+Das Plus am Neumarkt,Duisburg,1,gallery,51.45337,6.73245,5,,0
+Galerie JetztamDellplatz,Duisburg,1,gallery,51.42981,6.76145,5,,0
+Revierpark Mattlerbusch,Duisburg,1,park,51.51979,6.77882,0,,1
+alleato Arena,Duisburg,1,ice_rink,51.40689,6.77998,8,,0
+Cubus Kunsthalle,Duisburg,1,arts_centre,51.43006,6.76831,8,,0
+Lohmühle,Duisburg,1,attraction,51.51013,6.66831,0,,1
+Haniel Museum,Duisburg,1,museum,51.45135,6.73326,8,,0
+Meidericher Natur Minigolf,Duisburg,1,miniature_golf,51.46058,6.76289,0,,1
+"Museumsschiff ""Oscar Huber""",Duisburg,1,museum,51.45167,6.73034,8,,0
+Freibad Wolfssee,Duisburg,1,park,51.38396,6.79742,0,,1
+Wildschweingehege,Duisburg,1,zoo,51.42188,6.80719,20,,1
+Gemeindehaus Ruhrort,Duisburg,1,arts_centre,51.45295,6.73353,8,,0
+Flaggenmast Mühlenweide,Duisburg,1,attraction,51.45802,6.72677,0,,1
+Rheinportal Angerort,Duisburg,1,viewpoint,51.37972,6.72765,0,,1
+Hochofen,Duisburg,1,viewpoint,51.48027,6.78011,0,,1
+Stadtrandgarten,Duisburg,1,attraction,51.48128,6.77498,0,,1
+Schnabelhuck,Duisburg,1,viewpoint,51.44293,6.79878,0,,1
+Casino Duisburg,Duisburg,1,attraction,51.43333,6.77241,0,,1
+Angermündung,Duisburg,1,attraction,51.37947,6.7273,0,,1
+Innenhafen Duisburg,Duisburg,1,attraction,51.4405,6.76884,0,,1
+ThyssenKrupp,Duisburg,1,attraction,51.48942,6.74986,0,,1
+Holzhafen,Duisburg,1,attraction,51.44085,6.76631,0,,1
+Versunkenes Kloster,Duisburg,1,attraction,51.43943,6.80283,0,,1
+Lokal Harmonie,Duisburg,1,arts_centre,51.45413,6.73396,8,,0
+Flic Flac,Duisburg,1,theatre,51.42537,6.77289,20,,0
+Folkwang Universität der Künste,Duisburg,1,theatre,51.43206,6.76595,20,,0
+Kulturkirche Liebfrauen,Duisburg,1,arts_centre,51.43444,6.76937,8,,0
+SG1 Kunstraum,Duisburg,1,arts_centre,51.4323,6.76293,8,,0
+Pumpwerk Alte Emscher,Duisburg,1,attraction,51.48017,6.7279,0,,1
+Galerie gruenart,Duisburg,1,gallery,51.42848,6.76104,5,,0
+Ulmenhof-Park,Duisburg,1,park,51.45701,6.69425,0,,1
+Schifferbörse,Duisburg,1,attraction,51.45167,6.73117,0,,1
+Internationales Zentrum,Duisburg,1,arts_centre,51.43698,6.76191,8,,0
+Freizeitpark Hamborn,Duisburg,1,park,51.51735,6.77209,0,,1
+Kultur und Freizeitzentrum Wehofen,Duisburg,1,arts_centre,51.5283,6.76552,8,,0
+Gewerbegebiet Friedrich-Park,Duisburg,1,park,51.51198,6.74968,0,,1
+Wassermühle,Duisburg,1,attraction,51.43246,6.77134,0,,1
+Gabrielkirchplatz,Duisburg,1,park,51.42158,6.78713,0,,1
+Rheinhauser Bergbausammlung e.V.,Duisburg,1,museum,51.40619,6.69366,8,,0
+Aussichtsturm Wolfsberg,Duisburg,1,viewpoint,51.37816,6.80128,0,,1
+Gradierwerk,Duisburg,1,attraction,51.52109,6.77795,0,,1
+Minigolf Am Volkspark Garten Str.,Duisburg,1,miniature_golf,51.41087,6.70688,0,,1
+Stadtarchiv Duisburg,Duisburg,1,museum,51.4369,6.76071,8,,0
+Monte Schlacko,Duisburg,1,viewpoint,51.48311,6.77857,0,,1
+Schülke Platz,Duisburg,1,viewpoint,51.4349,6.80202,0,,1
+Chinesischer Garten,Duisburg,1,park,51.4362,6.80943,0,,1
+Werkstattkino,Duisburg,1,cinema,51.43754,6.7877,12,,0
+Habeez,Essen,0,restaurant,51.43739,7.00489,15,,0
+Gasthaus Alte Fähre,Essen,0,restaurant,51.36131,6.93425,15,,0
+Cafe Extrablatt,Essen,0,cafe,51.45644,7.01033,8,,0
+Capofino,Essen,0,restaurant,51.36204,6.93954,15,,0
+Sushi Mirag,Essen,0,fast_food,51.45429,6.97388,8,,0
+L'Osteria,Essen,0,restaurant,51.43216,7.00414,15,,0
+Onigiri,Essen,0,restaurant,51.44039,6.98819,15,,0
+Namaste,Essen,0,restaurant,51.43973,7.02359,15,,0
+Cafe Extrablatt,Essen,0,cafe,51.43854,7.00544,8,,0
+Asia Zushi Grill,Essen,0,restaurant,51.45659,6.98381,15,,0
+L'Osteria,Essen,0,restaurant,51.4569,7.01043,15,,0
+Alte Dorfschenke,Essen,0,restaurant,51.42463,7.03918,15,,0
+Baran Kebap,Essen,0,fast_food,51.43772,6.99031,8,,0
+Cafe Extrablatt,Essen,0,cafe,51.39421,7.06038,8,,0
+Dolcinella,Essen,0,restaurant,51.38513,6.99775,15,,0
+Burgfreund,Essen,0,restaurant,51.41743,7.12309,15,,0
+Kettner's Kamota,Essen,0,restaurant,51.38901,7.00141,15,,0
+Chicago,Essen,0,restaurant,51.40945,7.03347,15,,0
+Mika's Eisbox,Essen,0,ice_cream,51.35338,6.93156,4,,0
+Athena,Essen,0,restaurant,51.46782,7.09296,15,,0
+China Imbiss Asia,Essen,0,fast_food,51.39039,7.00406,8,,0
+Attika Grill,Essen,0,restaurant,51.38721,7.00119,15,,0
+Wechsel Bar,Essen,0,restaurant,51.36677,7.06229,15,,0
+Svaad - The Indian Kitchen,Essen,0,restaurant,51.44236,7.01148,15,,0
+Pizzeria da Enzo,Essen,0,fast_food,51.44983,6.98538,8,,0
+Olympia Grill,Essen,0,fast_food,51.451,6.97324,8,,0
+Pizza Boss,Essen,0,fast_food,51.4496,6.97389,8,,0
+Zum Siepenkötter,Essen,0,restaurant,51.44703,7.04353,15,,0
+Eventa Grillhaus,Essen,0,fast_food,51.44046,6.98744,8,,0
+Hot Wok,Essen,0,fast_food,51.39055,7.08166,8,,0
+LUJO,Essen,0,restaurant,51.3993,7.00879,15,,0
+Ristorante Da Daniele,Essen,0,restaurant,51.447,7.04676,15,,0
+dean&david,Essen,0,fast_food,51.43634,7.00503,8,,0
+Gallo Nero,Essen,0,restaurant,51.35598,6.92973,15,,0
+Eiscafe Fabris,Essen,0,cafe,51.44806,7.07549,8,,0
+Müllers auf der Rü,Essen,0,restaurant,51.43775,7.00524,15,,0
+Ristorante a Casa,Essen,0,restaurant,51.44754,7.07593,15,,0
+burgerme,Essen,0,fast_food,51.47582,6.96345,8,,0
+Gamberoni e Hummer,Essen,0,restaurant,51.4458,6.97509,15,,0
+Saka,Essen,0,fast_food,51.4283,7.00277,8,,0
+Point Break,Essen,0,restaurant,51.44737,7.001,15,,0
+Binh's Sushi,Essen,0,restaurant,51.42144,7.00074,15,,0
+McDonald's,Essen,0,fast_food,51.46933,7.02194,8,,0
+DOS,Essen,0,restaurant,51.36456,6.93827,15,,0
+Pizza Moji,Essen,0,fast_food,51.39392,7.00182,8,,0
+Cookie Jar,Essen,0,cafe,51.4316,7.00403,8,,0
+Antep Ocakbasi,Essen,0,restaurant,51.47033,7.01409,15,,0
+Sara Döner Kebab Haus,Essen,0,fast_food,51.44105,6.99133,8,,0
+Eis Casal,Essen,0,ice_cream,51.4462,6.97552,4,,0
+KohleCraftWerk,Essen,0,restaurant,51.44249,7.0067,15,,0
+Taste It India,Essen,0,restaurant,51.45907,7.00968,15,,0
+Tortenladen & Barista Bistro von TraumTorten.de,Essen,0,cafe,51.38886,7.00086,8,,0
+Asia Sushi Bar,Essen,0,restaurant,51.43741,6.98954,15,,0
+Shabu Shabu,Essen,0,restaurant,51.45788,7.0114,15,,0
+McDonald's,Essen,0,fast_food,51.45727,7.01282,8,,0
+Nargesi,Essen,0,restaurant,51.44935,7.01311,15,,0
+Frankenheim Brauhaus,Essen,0,restaurant,51.35699,6.93111,15,,0
+Namaste Nonna,Essen,0,fast_food,51.43797,6.99101,8,,0
+Cafe’ del Angel,Essen,0,cafe,51.4209,7.02523,8,,0
+Chill 'n Beef,Essen,0,restaurant,51.46323,6.97304,15,,0
+Osteria Don Camillo,Essen,0,restaurant,51.46901,7.0819,15,,0
+Starbucks,Essen,0,cafe,51.45323,7.01313,8,,0
+Ruff’s Burger,Essen,0,restaurant,51.43304,7.004,15,,0
+Wiener Wunder,Essen,0,restaurant,51.437,6.99999,15,,0
+Kalypso Der Grieche,Essen,0,restaurant,51.48541,6.90539,15,,0
+McDonald's,Essen,0,fast_food,51.48389,6.97431,8,,0
+Star Diner Essen,Essen,0,restaurant,51.47616,6.98687,15,,0
+McDonald's,Essen,0,fast_food,51.44527,7.08404,8,,0
+McDonald's,Essen,0,fast_food,51.43689,7.02453,8,,0
+Südtiroler Stuben,Essen,0,restaurant,51.40531,7.01548,15,,0
+Nesifa Café & Bar,Essen,0,restaurant,51.43335,7.01152,15,,0
+China-Town,Essen,0,fast_food,51.43402,7.00602,8,,0
+Seelich,Essen,0,restaurant,51.39417,7.07774,15,,0
+Turm-Stübchen,Essen,0,restaurant,51.47049,6.92076,15,,0
+Restaurant Dion,Essen,0,restaurant,51.38801,7.02117,15,,0
+McDonald's,Essen,0,fast_food,51.46159,6.99774,8,,0
+Cafe & Bar Celona,Essen,0,restaurant,51.46265,6.96166,15,,0
+Pizzeria Bolognese,Essen,0,fast_food,51.44371,7.03183,8,,0
+Restaurant Kattenturm,Essen,0,restaurant,51.36818,6.96033,15,,0
+Restaurant Mangold,Essen,0,restaurant,51.36138,6.9275,15,,0
+Museum Folkwang,Essen,1,museum,51.44253,7.00474,8,,0
+Red Dot Design Museum,Essen,1,museum,51.48771,7.04505,8,,0
+"Koshkina-Engel, Atelier",Essen,1,arts_centre,51.45219,7.0341,8,,0
+Eisenbahnmuseum Bochum-Dahlhausen,Essen,1,museum,51.43237,7.12459,8,,0
+Villa Hügel,Essen,1,attraction,51.4069,7.00894,0,,1
+Studio-Bühne Essen,Essen,1,theatre,51.4651,7.09622,20,,0
+Astra-Kino,Essen,1,cinema,51.45314,7.01446,12,,0
+Die Kulturlandschaft Deilbachtal,Essen,1,museum,51.38119,7.0908,8,,0
+Das Kleine Theater Essen,Essen,1,theatre,51.45825,7.00826,20,,0
+Theater Courage,Essen,1,theatre,51.43864,7.00222,20,,0
+Stratmanns Theater,Essen,1,theatre,51.45609,7.01079,20,,0
+Ruhr Museum,Essen,1,museum,51.48586,7.04219,8,,0
+Szene10,Essen,1,theatre,51.43074,7.00644,20,,0
+Katakomben-Theater,Essen,1,theatre,51.43078,7.00622,20,,0
+froh&bunter Kreativraum,Essen,1,arts_centre,51.38928,7.0833,8,,0
+Philharmonie/ Saalbau,Essen,1,theatre,51.44591,7.01075,20,,0
+Schaudepot Ruhr Museum,Essen,1,museum,51.48825,7.0341,8,,0
+Das kleine Atelierhaus,Essen,1,attraction,51.43313,6.97485,0,,1
+TeamEscape Essen,Essen,1,escape_game,51.43109,7.00508,25,,0
+NEK - Neue Essener Kunstverein,Essen,1,arts_centre,51.45585,7.01639,8,,0
+Clowns & Pferde,Essen,1,gallery,51.44777,6.97675,5,,0
+Musterwohnung Margarethenhöhe,Essen,1,museum,51.43286,6.97935,8,,0
+Eissporthalle Essen-West,Essen,1,ice_rink,51.45419,6.9767,8,,0
+Colosseum Theater,Essen,1,theatre,51.45874,7.0023,20,,1
+Autokino Essen,Essen,1,cinema,51.48645,6.9724,12,,0
+Mineralienmuseum Kupferdreh,Essen,1,museum,51.39243,7.08275,8,,0
+Zeche Zollverein,Essen,1,attraction,51.48805,7.03892,0,,1
+Cinemaxx,Essen,1,cinema,51.45795,7.00343,12,,0
+Grillo-Theater,Essen,1,theatre,51.45465,7.0115,20,,0
+Soul of Africa Museum,Essen,1,museum,51.4408,7.00616,8,,0
+Heimatgeschichtliches Zentrum,Essen,1,museum,51.43445,6.97873,8,,0
+Historische Sammlung der Ruhrwasserwirtschaft,Essen,1,museum,51.42997,7.04917,8,,0
+Forum Kunst & Architektur,Essen,1,arts_centre,51.45867,7.01153,8,,0
+Kunsthaus Essen,Essen,1,museum,51.4258,7.05288,8,,0
+Schatzkammer St. Ludgerus,Essen,1,attraction,51.38788,7.00516,0,,1
+Am Mechtenberg,Essen,1,garden,51.48021,7.09744,0,,1
+Gartenhaus Dingerkus,Essen,1,garden,51.38556,7.00271,0,,1
+Lichtburg,Essen,1,cinema,51.45485,7.01301,12,,0
+Grugapark Eingang Mustergärten,Essen,1,attraction,51.42797,6.98178,0,,1
+Theater im Rathaus,Essen,1,theatre,51.45804,7.0159,20,,0
+Grugapark Eingang Orangerie,Essen,1,attraction,51.4318,6.9918,0,,1
+Laufwasserkraftwerk,Essen,1,museum,51.39721,7.00073,8,,0
+Atelier & Galerie 52,Essen,1,arts_centre,51.45946,7.01371,8,,1
+Casa / Box,Essen,1,theatre,51.45432,7.01182,20,,0
+film studio Glückauf Kino,Essen,1,cinema,51.44341,7.0069,12,,0
+Kunstschacht Zollverein,Essen,1,arts_centre,51.48959,7.04538,8,,0
+Artishocke,Essen,1,gallery,51.44699,7.04393,5,,0
+Galerie Frank Schlag & Cie.,Essen,1,arts_centre,51.45431,7.01503,8,,0
+Rabbit Hole Theater,Essen,1,theatre,51.46177,7.0145,20,,0
+Neue Musik Zentrale,Essen,1,arts_centre,51.46175,7.01466,8,,0
+JesusChris,Essen,1,gallery,51.44157,7.01618,5,,0
+Orbit,Essen,1,arts_centre,51.48661,7.04598,8,,0
+Grugabad,Essen,1,water_park,51.42482,6.98878,15,,0
+Miniaturgolf am Stadtwald,Essen,1,miniature_golf,51.41217,7.02449,0,,1
+Grugaturm,Essen,1,attraction,51.4307,6.9927,0,,1
+Mischanlage [C70],Essen,1,attraction,51.49037,7.03906,0,,1
+pact zollverein,Essen,1,theatre,51.49002,7.04493,20,,0
+Heilig Geist - Kunstraum,Essen,1,arts_centre,51.49277,7.04793,8,,0
+Krupp Stammhaus,Essen,1,attraction,51.46047,6.99481,0,,1
+Studio Ardalan Mirhadi,Essen,1,arts_centre,51.45872,7.01173,8,,0
+Bismarckturm Essen,Essen,1,attraction,51.47963,7.08845,0,,1
+Grugapark Jahreskarteneingang Rollschuhbahn,Essen,1,attraction,51.42655,6.98135,0,,1
+Ackerhelden Bio-Gemüsegarten,Essen,1,garden,51.43785,7.12206,0,,1
+Aalto-Theater,Essen,1,theatre,51.44686,7.01267,20,,0
+Schloss Borbeck,Essen,1,viewpoint,51.46835,6.94209,0,,1
+Gedenktafel,Essen,1,attraction,51.45164,7.03019,0,,1
+Domschatzkammer,Essen,1,museum,51.45573,7.01394,8,,0
+Grugapark Eingang Grugabad,Essen,1,attraction,51.42297,6.98711,0,,1
+Steinbruch Deilbachtal,Essen,1,attraction,51.38372,7.09838,0,,1
+Hundebrücke,Essen,1,attraction,51.38382,7.11142,0,,1
+Gedenktafel,Essen,1,attraction,51.44466,6.96026,0,,1
+Gedenktafel,Essen,1,attraction,51.44761,6.95809,0,,1
+Gräber KZ-Opfer und Kriegsgefangene,Essen,1,attraction,51.455,6.94854,0,,1
+Gräber KZ-Opfer,Essen,1,attraction,51.45641,6.95159,0,,1
+Gedenktafel,Essen,1,attraction,51.45818,7.01446,0,,1
+Gedenktafel,Essen,1,attraction,51.43397,6.95802,0,,1
+Gedenktafel,Essen,1,attraction,51.45039,7.05193,0,,1
+Gedenken an Gefallene Soldaten,Essen,1,attraction,51.45109,7.04893,0,,1
+Grabstätte Gustav Heinemann,Essen,1,attraction,51.45201,7.0477,0,,1
+Gedenktafel,Essen,1,attraction,51.44777,7.04146,0,,1
+Zum Schiffchen,Dusseldorf,0,restaurant,51.22373,6.77193,15,,0
+Asia 5 Sterne,Dusseldorf,0,restaurant,51.24273,6.71921,15,,0
+Irodion,Dusseldorf,0,fast_food,51.22846,6.8138,8,,0
+Ăn Bánh Mì,Dusseldorf,0,fast_food,51.22967,6.80719,8,,0
+La Taberna,Dusseldorf,0,restaurant,51.23052,6.7941,15,,0
+Extratour Zum Alten Rhein,Dusseldorf,0,restaurant,51.14502,6.86435,15,,0
+Naniwa - noodles & soup,Dusseldorf,0,restaurant,51.22499,6.78806,15,,0
+Il Mercato,Dusseldorf,0,restaurant,51.21577,6.77665,15,,0
+Takumi,Dusseldorf,0,restaurant,51.22359,6.78884,15,,0
+da noi,Dusseldorf,0,restaurant,51.21871,6.78159,15,,0
+Vapiano,Dusseldorf,0,restaurant,51.22484,6.78182,15,,0
+Tapas del Sol,Dusseldorf,0,restaurant,51.14808,6.86676,15,,0
+Fujiyama,Dusseldorf,0,restaurant,51.21988,6.7846,15,,0
+Messina Due,Dusseldorf,0,restaurant,51.16892,6.80678,15,,0
+Linguini,Dusseldorf,0,restaurant,51.23294,6.78841,15,,0
+Pasta e Vino - zur Zeit leerstehend,Dusseldorf,0,restaurant,51.22886,6.79222,15,,0
+forum,Dusseldorf,0,restaurant,51.21457,6.76645,15,,0
+Restaurant per voi Cucina Italiana,Dusseldorf,0,restaurant,51.14939,6.86727,15,,0
+Im Stall,Dusseldorf,0,fast_food,51.18775,6.82172,8,,0
+Pizza Royal,Dusseldorf,0,fast_food,51.18276,6.82315,8,,0
+Okinii,Dusseldorf,0,restaurant,51.22332,6.78822,15,,0
+Piazza Saitta,Dusseldorf,0,restaurant,51.23092,6.75222,15,,0
+Hekimoglu Baklava,Dusseldorf,0,cafe,51.1877,6.81828,8,,0
+Bistro Zicke,Dusseldorf,0,cafe,51.22248,6.76947,8,,0
+Ohme Jupp,Dusseldorf,0,restaurant,51.2293,6.77491,15,,0
+Rösterei Vier,Dusseldorf,0,cafe,51.22595,6.77243,8,,0
+Primitivo,Dusseldorf,0,restaurant,51.24057,6.7806,15,,0
+En de Canon,Dusseldorf,0,restaurant,51.22554,6.77095,15,,0
+EigelStein,Dusseldorf,0,restaurant,51.2144,6.75515,15,,0
+Gingerboy,Dusseldorf,0,restaurant,51.24558,6.78639,15,,0
+Café Florian,Dusseldorf,0,restaurant,51.23827,6.77957,15,,0
+El Greco,Dusseldorf,0,restaurant,51.2123,6.77505,15,,0
+Baba Sushi 2,Dusseldorf,0,restaurant,51.21475,6.7687,15,,0
+Böser Chinese,Dusseldorf,0,restaurant,51.2147,6.75447,15,,0
+Lieblings,Dusseldorf,0,restaurant,51.22162,6.78332,15,,0
+Chez Amis - Café et Bistro,Dusseldorf,0,cafe,51.23779,6.80066,8,,0
+Geissel,Dusseldorf,0,restaurant,51.20444,6.77352,15,,0
+Amanti Restaurant,Dusseldorf,0,restaurant,51.21571,6.7583,15,,0
+Trattoria Romina,Dusseldorf,0,restaurant,51.19911,6.77017,15,,0
+Fischhaus,Dusseldorf,0,restaurant,51.22482,6.77219,15,,0
+Perla Porto,Dusseldorf,0,restaurant,51.21559,6.75154,15,,0
+Stappen,Dusseldorf,0,restaurant,51.23174,6.75598,15,,0
+Le Gourmet,Dusseldorf,0,restaurant,51.21228,6.78359,15,,0
+Der schnelle Grieche,Dusseldorf,0,fast_food,51.21081,6.78039,8,,0
+Uerige Hausbrauerei,Dusseldorf,0,restaurant,51.22498,6.77218,15,,0
+Pizzeria Maurizio,Dusseldorf,0,restaurant,51.24127,6.78208,15,,0
+Drei Chinesen,Dusseldorf,0,restaurant,51.21952,6.78527,15,,0
+Sugarbird Cupcakes,Dusseldorf,0,cafe,51.22591,6.77651,8,,0
+Casa Luigi,Dusseldorf,0,restaurant,51.2211,6.77396,15,,0
+Cafe Extrablatt,Dusseldorf,0,cafe,51.22133,6.781,8,,0
+Yomaro (Frozen Yoghurt),Dusseldorf,0,cafe,51.22319,6.77278,8,,0
+Ristorante Lerose,Dusseldorf,0,restaurant,51.23915,6.84702,15,,0
+Leo's Grill,Dusseldorf,0,fast_food,51.2105,6.76318,8,,0
+Pizzeria Fratelli,Dusseldorf,0,restaurant,51.23135,6.75607,15,,0
+be-lucca,Dusseldorf,0,restaurant,51.22038,6.77398,15,,0
+Rösterei Vier,Dusseldorf,0,cafe,51.22453,6.77358,8,,0
+L'Osteria,Dusseldorf,0,restaurant,51.27239,6.81539,15,,0
+Ponte Vecchio,Dusseldorf,0,restaurant,51.22424,6.77299,15,,0
+The ASH,Dusseldorf,0,restaurant,51.24902,6.76636,15,,0
+L'Osteria,Dusseldorf,0,restaurant,51.21818,6.78062,15,,0
+Anouki,Dusseldorf,0,restaurant,51.2439,6.71783,15,,0
+Tokyo Ramen Takeichi,Dusseldorf,0,restaurant,51.22148,6.78745,15,,0
+Lightroast Coffee,Dusseldorf,0,cafe,51.22692,6.81721,8,,0
+Tokyo Ramen Takeichi,Dusseldorf,0,restaurant,51.22096,6.78943,15,,0
+Finest Lezzet Restaurant,Dusseldorf,0,restaurant,51.25345,6.76056,15,,0
+Sojubar,Dusseldorf,0,restaurant,51.22172,6.7888,15,,0
+Viet.Thai Cuisine,Dusseldorf,0,restaurant,51.2503,6.79157,15,,0
+Pizza Royal,Dusseldorf,0,restaurant,51.33281,6.79126,15,,0
+sui.,Dusseldorf,0,restaurant,51.22202,6.78668,15,,0
+Sila Thai,Dusseldorf,0,restaurant,51.21928,6.78568,15,,0
+张亮麻辣烫Zhang Liang Malatang Spicy Hot Pot Düsseldorf,Dusseldorf,0,restaurant,51.22334,6.79022,15,,0
+FelFela,Dusseldorf,0,fast_food,51.22327,6.79518,8,,0
+Kaisershaus,Dusseldorf,0,restaurant,51.23983,6.88834,15,,0
+Subway,Dusseldorf,0,fast_food,51.19258,6.79677,8,,0
+Asia Thai,Dusseldorf,0,restaurant,51.17102,6.87981,15,,0
+La Corte,Dusseldorf,0,cafe,51.16402,6.87379,8,,0
+Khao hom,Dusseldorf,0,restaurant,51.16123,6.88513,15,,0
+Palmenhaus,Dusseldorf,0,restaurant,51.16309,6.87371,15,,0
+Grill Pizzeria Bei Ulla,Dusseldorf,0,restaurant,51.23696,6.86169,15,,0
+TRATTORIA Gallo Nero,Dusseldorf,0,restaurant,51.2055,6.77197,15,,0
+Löbbecke Museum,Dusseldorf,1,museum,51.25646,6.74983,8,,0
+UFA-Palast Düsseldorf,Dusseldorf,1,cinema,51.22119,6.79394,12,,0
+Theatermuseum,Dusseldorf,1,museum,51.23007,6.7813,8,,0
+Heinrich-Heine-Institut,Dusseldorf,1,library,51.22219,6.77302,0,,0
+Theater an der Kö,Dusseldorf,1,theatre,51.22538,6.78113,20,,0
+Hetjens-Museum,Dusseldorf,1,museum,51.22383,6.77109,8,,0
+Marionettentheater Düsseldorf,Dusseldorf,1,theatre,51.22237,6.77274,20,,0
+Mahn- und Gedenkstätte für die Opfer der nationalsozialistischen Gewaltherrschaft,Dusseldorf,1,library,51.2274,6.7738,0,,0
+Aquazoo,Dusseldorf,1,zoo,51.25651,6.74981,20,,1
+Haus der Geschichte Nordrhein-Westfalen (NRW),Dusseldorf,1,museum,51.22099,6.76794,8,,0
+Glowzone,Dusseldorf,1,miniature_golf,51.2333,6.8429,0,,1
+Botanischer Garten,Dusseldorf,1,attraction,51.18693,6.80265,0,,1
+Atelier,Dusseldorf,1,cinema,51.21866,6.78449,12,,0
+Bambi,Dusseldorf,1,cinema,51.22472,6.78937,12,,0
+Museum Kunstpalast,Dusseldorf,1,museum,51.235,6.7731,8,,0
+VierLinden Open–Air,Dusseldorf,1,cinema,51.20453,6.80843,12,,0
+FFT,Dusseldorf,1,theatre,51.22203,6.79332,20,,0
+Savoy Theater,Dusseldorf,1,theatre,51.21858,6.78446,20,,0
+Stadtmuseum Düsseldorf,Dusseldorf,1,museum,51.22236,6.7699,8,,0
+Kunstverein für die Rheinlande und Westfalen,Dusseldorf,1,museum,51.22754,6.77578,8,,0
+Black Box,Dusseldorf,1,cinema,51.22403,6.77086,12,,0
+Theater an der Luegallee,Dusseldorf,1,theatre,51.23186,6.76025,20,,0
+Event-Theater Schwanenhöfe,Dusseldorf,1,theatre,51.21934,6.81591,20,,0
+Apollo Varieté Theater,Dusseldorf,1,theatre,51.21943,6.76564,20,,0
+KIT - Kunst im Tunnel,Dusseldorf,1,museum,51.21982,6.76671,8,,0
+K20 - Kunstsammlung NRW,Dusseldorf,1,museum,51.2285,6.77593,8,,0
+Capitol Theater,Dusseldorf,1,theatre,51.22385,6.8006,20,,0
+Akki-Aktion & Kultur mit Kindern e.V.,Dusseldorf,1,arts_centre,51.20465,6.8088,8,,0
+Sammlung Philara,Dusseldorf,1,museum,51.22704,6.80252,8,,0
+St. Andreas-Kirche,Dusseldorf,1,place_of_worship,51.22744,6.77514,0,,1
+Rheinbad Düsseldorf,Dusseldorf,1,water_park,51.26514,6.73216,15,,0
+Minigolf Südpark,Dusseldorf,1,miniature_golf,51.19708,6.80304,0,,1
+Freizeitbad Düsselstrand,Dusseldorf,1,water_park,51.22433,6.81027,15,,0
+Eissporthalle Düsseldorf,Dusseldorf,1,ice_rink,51.16881,6.85901,8,,0
+Kommödchen,Dusseldorf,1,theatre,51.2273,6.77559,20,,0
+Schifffahrtsmuseum,Dusseldorf,1,museum,51.22735,6.77109,8,,0
+Schmela Haus - Kunstsammlung NRW,Dusseldorf,1,museum,51.22714,6.77575,8,,0
+Filmmuseum,Dusseldorf,1,museum,51.22411,6.77074,8,,0
+Puppentheater Helmholtzstraße,Dusseldorf,1,theatre,51.21415,6.78677,20,,1
+Cinema,Dusseldorf,1,cinema,51.22551,6.77332,12,,0
+Theaterfabrik Düsseldorf,Dusseldorf,1,theatre,51.21697,6.7889,20,,0
+Malkasten,Dusseldorf,1,museum,51.22982,6.78791,8,,0
+Pflegemuseum Kaiserswerth,Dusseldorf,1,museum,51.29897,6.74621,8,,0
+Weltkunstzimmer,Dusseldorf,1,arts_centre,51.21817,6.81886,8,,0
+Theater der Klänge,Dusseldorf,1,theatre,51.23761,6.78535,20,,0
+Golestani,Dusseldorf,1,gallery,51.24369,6.78292,5,,0
+Töchter und Söhne,Dusseldorf,1,gallery,51.16399,6.83978,5,,0
+NRW-Forum Düsseldorf,Dusseldorf,1,museum,51.23321,6.77207,8,,0
+K21 Ständehaus - Kunstsammlung NRW,Dusseldorf,1,museum,51.21664,6.77397,8,,0
+Classic Remise Düsseldorf,Dusseldorf,1,museum,51.19503,6.8236,8,,0
+Westliches Torhaus,Dusseldorf,1,museum,51.16201,6.86883,8,,0
+Hallenbad Unterrath,Dusseldorf,1,water_park,51.27222,6.7727,15,,0
+Düsseldorfer Schauspielhaus,Dusseldorf,1,theatre,51.22812,6.78329,20,,0
+Bilker Heimatarchiv,Dusseldorf,1,museum,51.20033,6.78133,8,,0
+fiftyfifty,Dusseldorf,1,gallery,51.20376,6.83694,5,,0
+Baustelle Schaustelle,Dusseldorf,1,arts_centre,51.24435,6.802,8,,0
+Beck & Eggeling,Dusseldorf,1,gallery,51.22254,6.77274,5,,0
+Living Room Galerie,Dusseldorf,1,gallery,51.2245,6.78574,5,,0
+Münster-Therme,Dusseldorf,1,water_park,51.24088,6.78348,15,,0
+Hallenfreibad Benrath,Dusseldorf,1,water_park,51.15973,6.87877,15,,0
+Landtagsgebäude Nordrhein-Westfalen,Dusseldorf,1,attraction,51.21871,6.76366,0,,1
+Palais Wittgenstein,Dusseldorf,1,arts_centre,51.22231,6.77274,8,,0
+WP8,Dusseldorf,1,arts_centre,51.22336,6.79637,8,,0
+Gutshof Niederheid,Dusseldorf,1,attraction,51.17101,6.84328,0,,1
+Museum Forum 8,Dusseldorf,1,museum,51.19489,6.8475,8,,0
+Kunstraum Düsseldorf,Dusseldorf,1,arts_centre,51.19849,6.78046,8,,0
+Galerie Seerichter,Dusseldorf,1,gallery,51.23063,6.75167,5,,0
+Forum Freies Theater,Dusseldorf,1,theatre,51.21747,6.78048,20,,0
+PrettyPortal,Dusseldorf,1,arts_centre,51.20719,6.77802,8,,0
+reinraum e.v.,Dusseldorf,1,arts_centre,51.21817,6.78102,8,,0
+Bonsai-Museum Düsseldorf,Dusseldorf,1,museum,51.20558,6.73656,8,,0
+Theaterkantine,Dusseldorf,1,theatre,51.21947,6.82248,20,,0
+RH Düsseldorf,Dusseldorf,1,gallery,51.2251,6.77827,5,,0
+Bowling Sportzentrum,Dusseldorf,1,bowling_alley,51.16716,6.86217,10,,0
+Deutsche Oper am Rhein,Dusseldorf,1,theatre,51.22743,6.7775,20,,0
+Bildraum,Dusseldorf,1,gallery,51.16324,6.86505,5,,0
+Ninasagt,Dusseldorf,1,arts_centre,51.21997,6.78609,8,,0
+tanzhaus nrw,Dusseldorf,1,theatre,51.22418,6.79995,20,,0
+Geuer & Geuer Art GmbH,Dusseldorf,1,gallery,51.22699,6.77653,5,,0
+KAI 10 | Arthena Foundation,Dusseldorf,1,gallery,51.21478,6.75316,5,,0
+Krua Thai,Cologne,0,restaurant,50.93593,6.93475,15,,0
+Deutzer Brauhaus,Cologne,0,restaurant,50.94052,6.97393,15,,0
+Pottkind,Cologne,0,restaurant,50.9194,6.96111,15,,0
+Limani,Cologne,0,restaurant,50.92233,6.96835,15,,0
+Los Carnales Taqueria,Cologne,0,restaurant,50.91893,6.96986,15,,0
+Schelds em Oellig,Cologne,0,restaurant,50.9551,6.95651,15,,0
+Thai Gourmet,Cologne,0,restaurant,50.91759,6.92406,15,,0
+Sakura,Cologne,0,restaurant,50.91778,6.9243,15,,0
+Hard Rock Cafe,Cologne,0,restaurant,50.93617,6.95773,15,,0
+Minsu,Cologne,0,restaurant,50.93702,6.97195,15,,0
+Great Wall,Cologne,0,restaurant,50.94147,6.9545,15,,0
+Bethlehem,Cologne,0,restaurant,50.95736,6.91953,15,,0
+Hans im Glück,Cologne,0,restaurant,50.94796,6.94522,15,,0
+XII Apostel,Cologne,0,restaurant,50.93751,6.96057,15,,0
+Beirut,Cologne,0,restaurant,50.93699,6.9624,15,,0
+Bona'me,Cologne,0,restaurant,50.92301,6.96738,15,,0
+La Société,Cologne,0,restaurant,50.92853,6.93729,15,,0
+Bier-Esel,Cologne,0,restaurant,50.93889,6.94618,15,,0
+Manni's Rästorang,Cologne,0,restaurant,50.92898,6.9397,15,,0
+Keule,Cologne,0,restaurant,50.93741,6.96122,15,,0
+Brauhaus zum Prinzen,Cologne,0,restaurant,50.9381,6.96048,15,,0
+Cafe Extrablatt,Cologne,0,cafe,50.93832,6.96043,8,,0
+Löwen Café,Cologne,0,cafe,50.92459,6.95873,8,,0
+LizBÄT,Cologne,0,restaurant,50.94766,6.92091,15,,0
+Istanbul Grill,Cologne,0,fast_food,50.94043,7.02144,8,,0
+Die Eisdielerin,Cologne,0,cafe,50.95266,6.91319,8,,0
+Ferkulum,Cologne,0,fast_food,50.92879,6.93691,8,,0
+Em Kölsche Boor,Cologne,0,restaurant,50.94879,6.95667,15,,0
+Cafe Extrablatt,Cologne,0,cafe,50.94936,6.95618,8,,0
+Pizza Time,Cologne,0,fast_food,50.92551,6.91103,8,,0
+Ludwig im Museum,Cologne,0,restaurant,50.94088,6.96053,15,,0
+Da Enzo,Cologne,0,restaurant,50.96404,7.00231,15,,0
+Milano Restaurant & Brauhaus,Cologne,0,restaurant,50.95773,7.01151,15,,0
+Cafe Extrablatt,Cologne,0,cafe,50.93896,6.94801,8,,0
+Brauhaus Quetsch,Cologne,0,restaurant,50.89676,6.9908,15,,0
+Amabile,Cologne,0,restaurant,50.93127,6.93488,15,,0
+Cloud Kitchen,Cologne,0,cafe,50.93678,6.94014,8,,0
+Coco Ramen,Cologne,0,restaurant,50.93926,6.9525,15,,0
+El Inca,Cologne,0,restaurant,50.93124,6.93485,15,,0
+Germania Terrassen,Cologne,0,restaurant,50.91145,6.98445,15,,0
+Lu,Cologne,0,restaurant,50.93036,6.94069,15,,0
+Café Vreiheit,Cologne,0,restaurant,50.9642,7.00103,15,,0
+Chum Chay,Cologne,0,restaurant,50.93866,6.94045,15,,0
+Anno Pomm Kartoffelhaus,Cologne,0,restaurant,50.9309,6.85439,15,,0
+Junkersdorfer Hof,Cologne,0,restaurant,50.93082,6.85476,15,,0
+Clubhaus am Geißbockheim,Cologne,0,restaurant,50.90747,6.90491,15,,0
+van der Put,Cologne,0,ice_cream,50.90119,6.94397,4,,0
+Kochlöffel,Cologne,0,fast_food,50.93758,7.00102,8,,0
+Linos Bar Ristorante,Cologne,0,restaurant,50.9097,6.92839,15,,0
+einBURGERung,Cologne,0,restaurant,50.91914,6.96001,15,,0
+Ito,Cologne,0,restaurant,50.94022,6.93656,15,,0
+Casita Mexicana,Cologne,0,restaurant,50.92257,6.95926,15,,0
+L'Osteria,Cologne,0,restaurant,50.93562,6.94316,15,,0
+Heimisch Kaffee & Regionales,Cologne,0,cafe,50.9367,6.97397,8,,0
+Tanica,Cologne,0,restaurant,50.93275,6.93847,15,,0
+Ox & Klee,Cologne,0,restaurant,50.92745,6.96555,15,,0
+Eiscafé Porta Romana,Cologne,0,ice_cream,50.94961,6.95665,4,,0
+1980,Cologne,0,cafe,50.9337,6.94602,8,,0
+Hoai Viet,Cologne,0,restaurant,50.9487,6.95384,15,,0
+AKOYA Sushi & Bowls,Cologne,0,fast_food,50.9616,6.83561,8,,0
+Barile,Cologne,0,restaurant,50.95395,6.95648,15,,0
+Injera,Cologne,0,restaurant,50.93239,6.93322,15,,0
+Il Bagutta,Cologne,0,restaurant,50.93004,6.93811,15,,0
+Fant-asia,Cologne,0,restaurant,50.93008,6.93872,15,,0
+L'Osteria,Cologne,0,restaurant,50.93583,6.95889,15,,0
+Haweli,Cologne,0,restaurant,50.9147,6.94117,15,,0
+Leobel's,Cologne,0,restaurant,50.93711,6.89047,15,,0
+Krua Thai am Heumarkt,Cologne,0,restaurant,50.93546,6.96019,15,,0
+Kumru Baba,Cologne,0,fast_food,50.91493,6.96169,8,,0
+Leskan Bistro,Cologne,0,restaurant,50.98242,7.07183,15,,0
+Stadtgarten-Restaurant,Cologne,0,restaurant,50.9429,6.93525,15,,0
+Zen Chay,Cologne,0,restaurant,50.93693,6.94546,15,,0
+L'Osteria,Cologne,0,restaurant,50.94191,6.9754,15,,0
+Mangia Bene,Cologne,0,restaurant,50.96446,6.83078,15,,0
+Chennai Chef,Cologne,0,restaurant,50.96853,6.96873,15,,0
+La Teca,Cologne,0,restaurant,50.92433,6.94441,15,,0
+Virtuous Pie,Cologne,0,restaurant,50.94644,6.92269,15,,0
+El Carrito,Cologne,0,restaurant,50.98052,6.89804,15,,0
+RAZZO Vegan Pizza Bar,Cologne,0,restaurant,50.91832,6.9606,15,,0
+Café Mansito,Cologne,0,restaurant,50.91995,6.96037,15,,0
+Römisch-Germanisches Museum,Cologne,1,museum,50.9406,6.95891,8,,0
+Museum Ludwig,Cologne,1,museum,50.94083,6.96002,8,,0
+Glowing Rooms,Cologne,1,miniature_golf,50.93668,6.93328,0,,1
+Käthe Kollwitz Museum,Cologne,1,museum,50.93667,6.94616,8,,0
+Kölner Zoo,Cologne,1,zoo,50.96116,6.97672,20,,1
+Deutsches Sport- und Olympiamuseum,Cologne,1,museum,50.93117,6.96466,8,,0
+Höhenbergbad,Cologne,1,water_park,50.94202,7.01991,15,,0
+Schokoladenmuseum,Cologne,1,museum,50.93197,6.96439,8,,0
+Museum für Ostasiatische Kunst,Cologne,1,museum,50.93515,6.92566,8,,0
+Museum für Angewandte Kunst,Cologne,1,arts_centre,50.93976,6.95484,8,,0
+Metropolis,Cologne,1,cinema,50.95108,6.95821,12,,0
+Odeon,Cologne,1,cinema,50.92527,6.95823,12,,0
+Kölnisches Stadtmuseum,Cologne,1,museum,50.93902,6.95427,8,,0
+Filmpalast Köln,Cologne,1,cinema,50.93792,6.93982,12,,0
+Kölner Senfmuseum,Cologne,1,museum,50.93257,6.96248,8,,0
+seiLeise - Showroom,Cologne,1,gallery,50.96577,7.00173,5,,0
+TimeRide,Cologne,1,museum,50.93854,6.96041,8,,0
+Hinterhofsalon,Cologne,1,theatre,50.93698,6.93312,20,,0
+Grevy – Galerie und Art-Community,Cologne,1,gallery,50.92044,6.91622,5,,0
+Galerie Bene Taschen,Cologne,1,gallery,50.93376,6.93749,5,,0
+Kölner Dom,Cologne,1,place_of_worship,50.94131,6.95811,0,,1
+Lindenthaler Tierpark,Cologne,1,zoo,50.92931,6.89755,20,,1
+artheater,Cologne,1,theatre,50.9532,6.9185,20,,0
+E-Werk,Cologne,1,arts_centre,50.96963,7.01659,8,,0
+Schauspiel Köln im Depot 1 und 2,Cologne,1,theatre,50.96644,7.01319,20,,0
+Palladium,Cologne,1,arts_centre,50.96899,7.01682,8,,0
+Museum Schnütgen,Cologne,1,museum,50.93479,6.9515,8,,0
+NS-Dokumentationszentrum,Cologne,1,museum,50.94056,6.95024,8,,0
+Gloria Theater,Cologne,1,theatre,50.93749,6.94495,20,,0
+Hänneschen-Theater,Cologne,1,theatre,50.93709,6.96195,20,,0
+Orangerie,Cologne,1,theatre,50.92135,6.94942,20,,0
+Galerie Hansemann,Cologne,1,gallery,50.95043,6.91939,5,,0
+metropol Theater,Cologne,1,theatre,50.92438,6.94491,20,,0
+Rehbein Galerie,Cologne,1,gallery,50.93774,6.94241,5,,0
+Theater im Bauturm,Cologne,1,theatre,50.93669,6.93645,20,,0
+Volksbühne am Rudolfplatz,Cologne,1,theatre,50.93636,6.9368,20,,0
+Kölner Festungsmuseum,Cologne,1,museum,50.89871,6.98237,8,,0
+Kölner Philharmonie,Cologne,1,theatre,50.94062,6.96082,20,,0
+Loft,Cologne,1,arts_centre,50.95133,6.92434,8,,0
+Senftöpfchen,Cologne,1,theatre,50.93967,6.96059,20,,0
+Musiktheater Werkschutz,Cologne,1,theatre,50.92826,6.96349,20,,0
+Galerie Anke Schmidt,Cologne,1,gallery,50.91381,6.9697,5,,0
+Forum für Fotografie,Cologne,1,arts_centre,50.91368,6.97003,8,,0
+Filmpalette,Cologne,1,cinema,50.94964,6.95524,12,,0
+Turistarama,Cologne,1,cinema,50.9345,6.94516,12,,0
+Residenz - ASTOR Film Lounge,Cologne,1,cinema,50.94393,6.94227,12,,0
+Galerie Gisela Capitain,Cologne,1,gallery,50.93909,6.94463,5,,0
+Kabarett A-Z,Cologne,1,theatre,50.95108,6.9525,20,,0
+Deutsches Tanzarchiv,Cologne,1,museum,50.94869,6.94339,8,,0
+Literaturhaus Köln,Cologne,1,arts_centre,50.93245,6.95296,8,,0
+Kino-Hole,Cologne,1,cinema,50.92032,6.94027,12,,0
+Rautenstrauch-Joest-Museum,Cologne,1,museum,50.9347,6.95044,8,,0
+artothek,Cologne,1,museum,50.93975,6.95931,8,,0
+Cassiopeia Theater,Cologne,1,theatre,50.96925,7.04119,20,,0
+kjubh Kunstverein e.V.,Cologne,1,gallery,50.93105,6.9332,5,,0
+The Great Escape,Cologne,1,attraction,50.95401,6.91186,0,,1
+Kolumba Kunstmuseum,Cologne,1,museum,50.93859,6.95399,8,,0
+Bunkermuseum RAW Nippes,Cologne,1,museum,50.96369,6.94309,8,,0
+The PhotoBookMuseum,Cologne,1,museum,50.94819,6.92187,8,,0
+Galerie Buchholz,Cologne,1,gallery,50.94037,6.95024,5,,0
+Galerie Nagel Draxler,Cologne,1,gallery,50.94079,6.94981,5,,0
+Medizinhistorisches Museum Köln,Cologne,1,museum,50.93795,6.96186,8,,0
+Zentrum zeitgenössische Stadtentwicklung,Cologne,1,arts_centre,50.93814,6.97182,8,,0
+Kunsthaus Rhenania,Cologne,1,arts_centre,50.92844,6.96341,8,,0
+Galerie Minrath,Cologne,1,gallery,50.92133,6.91942,5,,0
+Galerie Parrotta Contemporary Art,Cologne,1,gallery,50.93455,6.93429,5,,0
+Cinedom,Cologne,1,cinema,50.94772,6.94563,12,,0
+Theater&Ehrenfeld,Cologne,1,theatre,50.95366,6.91532,20,,0
+4-Takt-Hangar,Cologne,1,museum,50.98138,6.90035,8,,0
+Domschatzkammer,Cologne,1,museum,50.94172,6.95853,8,,0
+Cinenova Arthouse-Center,Cologne,1,cinema,50.95138,6.91127,12,,0
+Duftmuseum im Farina-Haus,Cologne,1,museum,50.93776,6.95793,8,,0
+Skulpturenpark,Cologne,1,park,50.9555,6.97103,0,,1
+Theater der Keller,Cologne,1,theatre,50.92368,6.98196,20,,0
+Stellwerk Köln-Dünnwald,Cologne,1,museum,50.99987,7.03528,8,,0
+Wallraf-Richartz-Museum & Fondation Corboud,Cologne,1,museum,50.93729,6.95837,8,,0
+Michael-Schumacher-Hangar,Cologne,1,museum,50.98135,6.89911,8,,0
+Ubiermonument,Cologne,1,attraction,50.93372,6.9592,0,,1
+Straßenbahn-Museum Thielenbruch,Cologne,1,museum,50.97839,7.08585,8,,0
+Off Broadway,Cologne,1,cinema,50.92968,6.9379,12,,0

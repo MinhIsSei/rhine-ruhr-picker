@@ -1,0 +1,13 @@
+{
+ "t_me": -0.03,
+ "t_friend": -0.025,
+ "t_max": -0.04,
+ "t_diff": -0.02,
+ "price": -0.03,
+ "rating": 1.2,
+ "friend_fit": 0.7,
+ "is_activity": 0.0,
+ "outdoor": 0.0,
+ "rain_outdoor": -1.5,
+ "is_open": 3.0
+}
