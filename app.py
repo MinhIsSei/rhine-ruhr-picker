@@ -28,6 +28,9 @@ def fit_cached(mtime):
 
 if "synced" not in st.session_state:  # on Streamlit Cloud: load the saved choices from the private data repo
     storage.pull(LOG)
+    if not os.path.exists("places.csv"):  # not in the public repo: fetch it from the private data repo
+        storage.pull("places.csv")
+        load_places.clear()
     st.session_state["synced"] = True
 
 def n_choices():
